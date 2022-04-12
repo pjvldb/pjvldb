@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Paul Johnson from VLDB.
 - 👀 I’m interested in all things data.
-- 🌱 I’m currently learning github.
-- 💞️ I’m not yet sure what I'm looking to collaborate on.  
 - 📫 Reach me via email : pjohnson@vldbsolutions.com
 
 <!---
